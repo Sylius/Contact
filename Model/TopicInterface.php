@@ -17,7 +17,7 @@ namespace Sylius\Component\Contact\Model;
  *
  * @author Michał Marcinkowski <michal.marcinkowski@lakion.com>
  */
-interface ContactTopicInterface
+interface TopicInterface
 {
     /**
      * @return string
